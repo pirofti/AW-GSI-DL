@@ -21,6 +21,8 @@ If you use our work in your research, please cite as:
 ```
 
 ## Prerequisite
+Before cloning make sure you have installed [git-lfs](https://git-lfs.com/) for accessing the data files.
+
 [Dictionary Learning Toolbox](https://github.com/pirofti/dl-box) implementation
 by Paul Irofti.
 
